@@ -1,3 +1,5 @@
+
+
 import java.awt.Color;
 
 public class TurtleWorld
@@ -65,7 +67,6 @@ public class TurtleWorld
         
         // char stores a single character
         char letter = 'd';
-        
-       
     }
 }
+        
